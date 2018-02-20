@@ -1,0 +1,32 @@
+Alignment:
+seed
+
+Input File:
+Sample_Input.tags
+
+Sliding Window:
+150
+
+Reversal Status:
+false
+
+Alignment Metric:
+pearson
+
+Transformation:
+poisson
+
+Alignment File Output:
+Aligned_Output.cdt
+
+Alignment Coordinates File Output:
+Aligned_Coordinates.shift
+
+Output Type:
+treeview
+
+Genome Size:
+12070897
+
+Total Tag Count:
+718510572
